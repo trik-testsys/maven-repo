@@ -3,10 +3,10 @@
   <groupId>trik.testsys.grading</groupId>
   <artifactId>protos</artifactId>
   <versioning>
-    <release>1.0.0.RELEASE</release>
+    <release>1.1.0.RELEASE</release>
     <versions>
-      <version>1.0.0.RELEASE</version>
+      <version>1.1.0.RELEASE</version>
     </versions>
-    <lastUpdated>20250808015509</lastUpdated>
+    <lastUpdated>20250810143357</lastUpdated>
   </versioning>
 </metadata>
