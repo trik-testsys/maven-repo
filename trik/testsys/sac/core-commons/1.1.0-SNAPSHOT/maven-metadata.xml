@@ -3,27 +3,27 @@
   <groupId>trik.testsys.sac</groupId>
   <artifactId>core-commons</artifactId>
   <versioning>
-    <lastUpdated>20250810142008</lastUpdated>
+    <lastUpdated>20250810142715</lastUpdated>
     <snapshot>
-      <timestamp>20250810.142008</timestamp>
+      <timestamp>20250810.142715</timestamp>
       <buildNumber>1</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>1.1.0-20250810.142008-1</value>
-        <updated>20250810142008</updated>
+        <value>1.1.0-20250810.142715-1</value>
+        <updated>20250810142715</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>1.1.0-20250810.142008-1</value>
-        <updated>20250810142008</updated>
+        <value>1.1.0-20250810.142715-1</value>
+        <updated>20250810142715</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>sources</classifier>
         <extension>jar</extension>
-        <value>1.1.0-20250810.142008-1</value>
-        <updated>20250810142008</updated>
+        <value>1.1.0-20250810.142715-1</value>
+        <updated>20250810142715</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
