@@ -3,16 +3,16 @@
   <groupId>trik.testsys</groupId>
   <artifactId>spring-app-core</artifactId>
   <versioning>
-    <lastUpdated>20250811015302</lastUpdated>
+    <lastUpdated>20250815192727</lastUpdated>
     <snapshot>
-      <timestamp>20250811.015302</timestamp>
+      <timestamp>20250815.192727</timestamp>
       <buildNumber>1</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>1.2.0-20250811.015302-1</value>
-        <updated>20250811015302</updated>
+        <value>1.2.0-20250815.192727-1</value>
+        <updated>20250815192727</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
