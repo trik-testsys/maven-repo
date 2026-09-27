@@ -3,27 +3,27 @@
   <groupId>trik.testsys.grading</groupId>
   <artifactId>protos</artifactId>
   <versioning>
-    <lastUpdated>20250810143638</lastUpdated>
+    <lastUpdated>20260927192116</lastUpdated>
     <snapshot>
-      <timestamp>20250810.143638</timestamp>
+      <timestamp>20260927.192116</timestamp>
       <buildNumber>1</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>1.2.0-20250810.143638-1</value>
-        <updated>20250810143638</updated>
+        <value>1.2.0-20260927.192116-1</value>
+        <updated>20260927192116</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>1.2.0-20250810.143638-1</value>
-        <updated>20250810143638</updated>
+        <value>1.2.0-20260927.192116-1</value>
+        <updated>20260927192116</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>sources</classifier>
         <extension>jar</extension>
-        <value>1.2.0-20250810.143638-1</value>
-        <updated>20250810143638</updated>
+        <value>1.2.0-20260927.192116-1</value>
+        <updated>20260927192116</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
